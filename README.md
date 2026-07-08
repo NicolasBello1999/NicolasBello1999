@@ -1,13 +1,13 @@
 ## Hi there 👋, I'm Nicolas Bello!
----
+
 ### 😊 About Me 😊
 Hi, I’m Nicolas — a Software Developer @ MEDITECH and I'm interested in backend development, APIs, automation, AI-assisted tools, cybersecurity, and game development.
 
 I currently work on production API workflows in the healthcare space, where I focus on data interoperability, compliance-driven development, access control logic, testing, documentation, and cross-team collaboration. I enjoy building software that connects systems, simplifies workflows, and turns complex technical requirements into reliable solutions.
 
 On GitHub, I use my projects to experiment with new technologies, sharpen my skills, and build tools that solve real problems.
----
-### 💻 Code & Technologies 💻
+
+### 💻 Technical Skills 💻
 <p align="center">
   <img src="https://img.shields.io/badge/C-%23A8B9CC?logo=c&label=Code&labelColor=gray" />
   <img src="https://img.shields.io/badge/C%2B%2B-lightblue?logo=cplusplus&logoColor=lightblue&label=Code&labelColor=gray" />
@@ -26,6 +26,7 @@ On GitHub, I use my projects to experiment with new technologies, sharpen my ski
   <img src="https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&label=Framework&labelColor=gray" />
   <img src="https://img.shields.io/badge/AvaloniaUI-%23165BFF?logo=avaloniaui&label=Framework&labelColor=gray" />
   <img src="https://img.shields.io/badge/Unity-%23FFFFFF?logo=unity&label=Engine&labelColor=gray" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?logo=figma&label=Tools&labelColor=gray" />
   <img src="https://img.shields.io/badge/Node.js-%235FA04E?logo=nodedotjs&label=Tools&labelColor=gray" />
   <img src="https://img.shields.io/badge/Jira-%230052CC?logo=jira&label=Tools&labelColor=gray" />
   <img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&label=Tools&labelColor=gray" />
@@ -35,3 +36,6 @@ On GitHub, I use my projects to experiment with new technologies, sharpen my ski
   <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&label=Databases&labelColor=gray" />
   <img src="https://img.shields.io/badge/Firebase-%23DD2C00?logo=firebase&label=Databases&labelColor=gray" />
 </p>
+
+### 🤝 Contact Me 🤝
+www.linkedin.com/in/nicolas-bello-ogb
