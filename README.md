@@ -7,6 +7,8 @@ I currently work on production API workflows in the healthcare space, where I fo
 
 On GitHub, I use my projects to experiment with new technologies, sharpen my skills, and build tools that solve real problems.
 
+---
+
 ### 💻 Technical Skills 💻
 <p align="center">
   <img src="https://img.shields.io/badge/C-%23A8B9CC?logo=c&label=Code&labelColor=gray" />
@@ -37,5 +39,21 @@ On GitHub, I use my projects to experiment with new technologies, sharpen my ski
   <img src="https://img.shields.io/badge/Firebase-%23DD2C00?logo=firebase&label=Databases&labelColor=gray" />
 </p>
 
+---
+
+### 📊 GitHub Stats 📊
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=NicolasBello1999&layout=compact&langs_count=6&theme=nord)](https://github-stats-extended.vercel.app/api/top-langs?username=NicolasBello1999&layout=compact&langs_count=6&theme=nord)
+
+---
+
 ### 🤝 Contact Me 🤝
-www.linkedin.com/in/nicolas-bello-ogb
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/nicolas-bello-ogb)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nickiogb1999/)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](nicolasbello73@gmail.com)
+
+---
+
+### 🔨 Ongoing Projects 🔨
+**MeMyMo Voice**
+  > MeMyMo Voice is a desktop audio application focused on voice and soundboard functionality, inspired by tools like VoiceMod. The goal of the project is to let users manage and play custom `.mp3`/`.wav` sound clips through a clean, modern interface, with future support for routing audio through a virtual microphone for apps like Discord, Skype, and other voice platforms.
+  > The app is currently being built with `.NET` / `C#` and `AvaloniaUI`, using `AXAML` for cross-platform desktop UI development and an MVVM-style structure for organizing views, view models, and audio-related services.</p>
